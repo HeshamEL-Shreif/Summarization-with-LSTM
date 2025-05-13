@@ -62,7 +62,7 @@ Training outputs:
 - Accuracy per epoch
 - TQDM progress bar for real-time updates
 
-## 📈 Evaluation
+##  Evaluation
 
 To evaluate the model and visualize example outputs, run:
 
