@@ -61,8 +61,10 @@ Training outputs:
 - Loss per epoch
 - Accuracy per epoch
 - TQDM progress bar for real-time updates
+> ⚠️ **Note:** The model is trained for only 10 epochs with a small architecture. It is not expected to achieve high summarization quality and is intended purely as a **showcase** of implementing sequence-to-sequence summarization with LSTMs. Also, token-level **accuracy** is not a good evaluation metric for text summarization, as it doesn't capture semantic correctness or fluency.
 
-## 📈 Evaluation
+
+##  Evaluation
 
 To evaluate the model and visualize example outputs, run:
 
